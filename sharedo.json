@@ -14,34 +14,33 @@
 					"text": "Do I need to come every week?",
 					"poster": "David"
 				}
-			]
+			],
+			"watch": []
 		},
 		{
 			"title": "Make Bagels",
 			"deadline": "2021-02-16",
 			"assignment": [
-				"Soya",
-				"Farnaz",
-				"Jumana"
+				"Soya"
 			],
 			"information": "Recipe at https://www.sophisticatedgourmet.com/2009/10/new-york-style-bagel-recipe/",
-			"post": []
+			"post": [],
+			"watch": []
 		},
 		{
 			"title": "Solve todo management",
 			"deadline": "2021-06-01",
 			"assignment": [
-				"David",
-				"Soya",
-				"Stuti"
+				"David"
 			],
-			"information": "We have to figured out the answer",
+			"information": "We have to figure out the answer",
 			"post": [
 				{
 					"text": "Do you think we can?",
 					"poster": "David"
 				}
-			]
+			],
+			"watch": []
 		}
 	]
 }
