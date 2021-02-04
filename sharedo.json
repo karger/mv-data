@@ -15,7 +15,7 @@
 					"poster": "David"
 				}
 			],
-			"watch": []
+			"watching": []
 		},
 		{
 			"title": "Make Bagels",
@@ -25,16 +25,14 @@
 			],
 			"information": "Recipe at https://www.sophisticatedgourmet.com/2009/10/new-york-style-bagel-recipe/",
 			"post": [],
-			"watch": []
+			"watching": []
 		},
 		{
 			"title": "Solve todo management",
 			"deadline": "2021-06-01",
 			"assignment": [
-				"David",
-				"Soya",
 				"Stuti",
-				"Jack"
+				"Soya"
 			],
 			"information": "We have to figure out the answer",
 			"post": [
@@ -43,9 +41,8 @@
 					"poster": "David"
 				}
 			],
-			"watch": [
-				"Mark",
-				"Jill"
+			"watching": [
+				"David"
 			]
 		}
 	]
