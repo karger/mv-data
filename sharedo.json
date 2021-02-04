@@ -6,13 +6,17 @@
 			"title": "Handstand Scheduling",
 			"deadline": "2021-02-09",
 			"assignment": [
-				"David"
+				"John"
 			],
 			"information": "I need people to specify their availability for class; please fill the when2meet at https://www.when2meet.com/?10853467-GDMmx",
 			"post": [
 				{
 					"text": "Do I need to come every week?",
-					"poster": "David"
+					"poster": "John"
+				},
+				{
+					"text": "Not necessary",
+					"poster": "John"
 				}
 			],
 			"watching": []
@@ -38,7 +42,7 @@
 			"post": [
 				{
 					"text": "Do you think we can?",
-					"poster": "David"
+					"poster": "John"
 				}
 			],
 			"watching": [
