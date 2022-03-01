@@ -64,7 +64,8 @@
 		},
 		{
 			"name": "Harishut",
-			"choreographer": "Moshiko Halevy",
+			"choreographer": "Margalit Oved",
+			"year": "1957",
 			"music": "https://www.dropbox.com/s/cf73cmmd1zv9wf7/Harishut%20%28192k%2C%20slow%29.mp3?dl=0",
 			"video": "https://www.youtube.com/watch?v=O_N1Y1lLeQ4"
 		},
@@ -77,26 +78,45 @@
 		},
 		{
 			"name": "Eretz Eetz",
-			"choreographer": "Yankele Levy & Shlomo Bachar"
+			"choreographer": "Yankele Levy & Shlomo Bachar",
+			"year": "1974",
+			"music": "https://www.dropbox.com/s/3fc90hj5am7kql5/Eretz%20Eretz.mp3?dl=0",
+			"video": "https://www.youtube.com/watch?v=6nKCXskcn8Y&t=117s"
 		},
 		{
 			"name": "Besabisi",
-			"choreographer": "Se'adiah Amishai"
+			"choreographer": "Se'adiah Amishai",
+			"year": "1972",
+			"music": "https://www.dropbox.com/s/igney2kie35ucnj/Besabesi%20%28long%20intro%29.mp3?dl=0",
+			"video": "https://www.youtube.com/watch?v=Ja-Bkh7JwwQ&t=126s"
 		},
 		{
 			"name": "Erev Ba",
-			"choreographer": "Yoav Ashriel"
+			"choreographer": "Yoav Ashriel",
+			"year": "1960",
+			"music": "https://www.dropbox.com/s/c4ubdzfiz1gpkcd/Erev%20Ba.mp3?dl=0",
+			"video": "https://www.youtube.com/watch?v=2ZVtwueBfF8&t=145"
 		},
 		{
 			"name": "Ki Hivshilo Eshkolot",
-			"choreographer": "Moshiko Halevy"
+			"choreographer": "Moshiko Halevy",
+			"year": "1968",
+			"music": "https://www.dropbox.com/s/4y2i7rzs5951iuk/Ki%20Hivshilu.mp3?dl=0",
+			"video": "https://www.youtube.com/watch?v=fbQyzAFJf_w&t=120s"
 		},
 		{
 			"name": "Bo Iti El Hagalil",
-			"choreographer": "Se'adiah Amishai"
+			"choreographer": "Se'adiah Amishai",
+			"year": "1978",
+			"music": "https://www.dropbox.com/s/25pf3fdke7mfzwf/Bo%20Iti%20El%20Hagalil.mp3?dl=0",
+			"video": "https://www.youtube.com/watch?v=86sACsSyJ8U&t=145s"
 		},
 		{
-			"name": "Shabbat Menuchah"
+			"name": "Shabbat Menuchah",
+			"choreographer": "Israel Shikker",
+			"year": "1983",
+			"music": "https://www.dropbox.com/s/opltpcji76pmbzr/Shabbat%20Menucha.mp3?dl=0",
+			"video": "https://www.youtube.com/watch?v=_lER_tW-q5w&t=165s"
 		}
 	]
 }
