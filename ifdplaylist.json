@@ -20,6 +20,83 @@
 			"year": "1977",
 			"music": "https://www.dropbox.com/s/4b2sl4hgy6wwl6r/Lo%20Ahavti%20Dai.mp3?dl=0",
 			"video": "https://www.youtube.com/watch?v=9Zwphf3kWBk&t=135s"
+		},
+		{
+			"name": "Pata Pata",
+			"choreographer": "Shalom Amar",
+			"music": "https://www.dropbox.com/s/syrklpyxw2a9bnb/Pata%20Pata.mp3?dl=0",
+			"video": "https://www.youtube.com/watch?time_continue=2&v=_6Q34ccGXO0&feature=emb_logo"
+		},
+		{
+			"name": "Debka Daluna (Modern)",
+			"choreographer": "Yoav Ashriel",
+			"year": "1959",
+			"music": "https://www.dropbox.com/s/vtstxz44tbrheud/Debka%20Daluna%20%28modern%29.mp3?dl=0",
+			"video": "https://www.youtube.com/watch?v=w2KwSRQmWm4&t=80s"
+		},
+		{
+			"name": "Tzadik Katamar",
+			"choreographer": "Jonathan Gabay",
+			"year": "1965",
+			"music": "https://www.dropbox.com/s/ix2tg0827zcucgh/Tzadik%20Katamar%20%28MIT%29.mp3?dl=0",
+			"video": "https://www.youtube.com/watch?time_continue=1&v=ihSSXQATgUY&feature=emb_logo"
+		},
+		{
+			"name": "Hora Nirkoda",
+			"choreographer": "Yoav Ashriel",
+			"year": "1958",
+			"music": "https://www.dropbox.com/s/ysimu102yxoiakb/Hora%20Nirkoda%20%28MIT%29.mp3?dl=0",
+			"video": "https://www.youtube.com/watch?v=Tcrg62xCoIc"
+		},
+		{
+			"name": "Hora Tzchok",
+			"choreographer": "Moti Alfasi",
+			"year": "1974",
+			"music": "https://www.dropbox.com/s/kp3p7utdh0ueqwd/Hora%20Tzchok.mp3?dl=0",
+			"video": "https://www.youtube.com/watch?v=VSeX5g2npFM"
+		},
+		{
+			"name": "Hora Habik'ah",
+			"choreographer": "Yankele Levy",
+			"year": "1972",
+			"music": "https://www.dropbox.com/s/vz7mbyxm4qea92g/Hora%20Habik%27ah.mp3?dl=0",
+			"video": "https://www.youtube.com/watch?v=cDsVhaQd-dM"
+		},
+		{
+			"name": "Harishut",
+			"choreographer": "Moshiko Halevy",
+			"music": "https://www.dropbox.com/s/cf73cmmd1zv9wf7/Harishut%20%28192k%2C%20slow%29.mp3?dl=0",
+			"video": "https://www.youtube.com/watch?v=O_N1Y1lLeQ4"
+		},
+		{
+			"name": "Ashlayot",
+			"choreographer": "Se'adiah Amishai",
+			"year": "1962",
+			"music": "https://www.dropbox.com/s/pl7sdpqgjfzpyu6/Ashlayot%20%28MIT%29.mp3?dl=0",
+			"video": "https://www.youtube.com/watch?v=DfZGroFMk58&t=57s"
+		},
+		{
+			"name": "Eretz Eetz",
+			"choreographer": "Yankele Levy & Shlomo Bachar"
+		},
+		{
+			"name": "Besabisi",
+			"choreographer": "Se'adiah Amishai"
+		},
+		{
+			"name": "Erev Ba",
+			"choreographer": "Yoav Ashriel"
+		},
+		{
+			"name": "Ki Hivshilo Eshkolot",
+			"choreographer": "Moshiko Halevy"
+		},
+		{
+			"name": "Bo Iti El Hagalil",
+			"choreographer": "Se'adiah Amishai"
+		},
+		{
+			"name": "Shabbat Menuchah"
 		}
 	]
 }
