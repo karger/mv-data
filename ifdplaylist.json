@@ -8,6 +8,20 @@
 			"video": "https://www.youtube.com/watch?v=w2KwSRQmWm4&t=80s"
 		},
 		{
+			"name": "Tzadik Katamar",
+			"choreographer": "Jonathan Gabay",
+			"year": "1965",
+			"music": "https://www.dropbox.com/s/ix2tg0827zcucgh/Tzadik%20Katamar%20%28MIT%29.mp3?dl=0",
+			"video": "https://www.youtube.com/watch?time_continue=1&v=ihSSXQATgUY&feature=emb_logo"
+		},
+		{
+			"name": "Erev Ba",
+			"choreographer": "Yoav Ashriel",
+			"year": "1960",
+			"music": "https://www.dropbox.com/s/c4ubdzfiz1gpkcd/Erev%20Ba.mp3?dl=0",
+			"video": "https://www.youtube.com/watch?v=2ZVtwueBfF8&t=145"
+		},
+		{
 			"name": "Debka Kurdit",
 			"choreographer": "Moshiko Halevi",
 			"year": "1960",
@@ -33,13 +47,6 @@
 			"year": "1959",
 			"music": "https://www.dropbox.com/s/vtstxz44tbrheud/Debka%20Daluna%20%28modern%29.mp3?dl=0",
 			"video": "https://www.youtube.com/watch?v=w2KwSRQmWm4&t=80s"
-		},
-		{
-			"name": "Tzadik Katamar",
-			"choreographer": "Jonathan Gabay",
-			"year": "1965",
-			"music": "https://www.dropbox.com/s/ix2tg0827zcucgh/Tzadik%20Katamar%20%28MIT%29.mp3?dl=0",
-			"video": "https://www.youtube.com/watch?time_continue=1&v=ihSSXQATgUY&feature=emb_logo"
 		},
 		{
 			"name": "Hora Nirkoda",
@@ -91,13 +98,6 @@
 			"video": "https://www.youtube.com/watch?v=Ja-Bkh7JwwQ&t=126s"
 		},
 		{
-			"name": "Erev Ba",
-			"choreographer": "Yoav Ashriel",
-			"year": "1960",
-			"music": "https://www.dropbox.com/s/c4ubdzfiz1gpkcd/Erev%20Ba.mp3?dl=0",
-			"video": "https://www.youtube.com/watch?v=2ZVtwueBfF8&t=145"
-		},
-		{
 			"name": "Ki Hivshilo Eshkolot",
 			"choreographer": "Moshiko Halevy",
 			"year": "1968",
@@ -117,6 +117,11 @@
 			"year": "1983",
 			"music": "https://www.dropbox.com/s/opltpcji76pmbzr/Shabbat%20Menucha.mp3?dl=0",
 			"video": "https://www.youtube.com/watch?v=_lER_tW-q5w&t=165s"
+		},
+		{
+			"name": "Shir Al Etz",
+			"choreographer": "Yaakov Maryuma",
+			"video": "https://www.youtube.com/watch?v=8slQE1dVd5I&t=175s"
 		}
 	]
 }
