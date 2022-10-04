@@ -22,6 +22,13 @@
 			"video": "https://www.youtube.com/watch?v=2ZVtwueBfF8&t=145"
 		},
 		{
+			"name": "Harishut",
+			"choreographer": "Margalit Oved",
+			"year": "1957",
+			"music": "https://www.dropbox.com/s/cf73cmmd1zv9wf7/Harishut%20%28192k%2C%20slow%29.mp3?dl=0",
+			"video": "https://www.youtube.com/watch?v=O_N1Y1lLeQ4"
+		},
+		{
 			"name": "Debka Kurdit",
 			"choreographer": "Moshiko Halevi",
 			"year": "1960",
@@ -68,13 +75,6 @@
 			"year": "1972",
 			"music": "https://www.dropbox.com/s/vz7mbyxm4qea92g/Hora%20Habik%27ah.mp3?dl=0",
 			"video": "https://www.youtube.com/watch?v=cDsVhaQd-dM"
-		},
-		{
-			"name": "Harishut",
-			"choreographer": "Margalit Oved",
-			"year": "1957",
-			"music": "https://www.dropbox.com/s/cf73cmmd1zv9wf7/Harishut%20%28192k%2C%20slow%29.mp3?dl=0",
-			"video": "https://www.youtube.com/watch?v=O_N1Y1lLeQ4"
 		},
 		{
 			"name": "Ashlayot",
