@@ -29,6 +29,12 @@
 			"video": "https://www.youtube.com/watch?v=O_N1Y1lLeQ4"
 		},
 		{
+			"name": "Shir Al Etz",
+			"choreographer": "Yaakov Maryuma",
+			"video": "https://www.youtube.com/watch?v=8slQE1dVd5I&t=175s",
+			"music": "https://www.dropbox.com/s/795ovm0mwlrryy4/Shir%20Al%20Etz%20%28Short%29.mp3?dl=0"
+		},
+		{
 			"name": "Debka Kurdit",
 			"choreographer": "Moshiko Halevi",
 			"year": "1960",
@@ -117,12 +123,6 @@
 			"year": "1983",
 			"music": "https://www.dropbox.com/s/opltpcji76pmbzr/Shabbat%20Menucha.mp3?dl=0",
 			"video": "https://www.youtube.com/watch?v=_lER_tW-q5w&t=165s"
-		},
-		{
-			"name": "Shir Al Etz",
-			"choreographer": "Yaakov Maryuma",
-			"video": "https://www.youtube.com/watch?v=8slQE1dVd5I&t=175s",
-			"music": "https://www.dropbox.com/s/795ovm0mwlrryy4/Shir%20Al%20Etz%20%28Short%29.mp3?dl=0"
 		}
 	]
 }
